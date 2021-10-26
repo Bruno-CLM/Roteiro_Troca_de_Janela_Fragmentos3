@@ -1,0 +1,2 @@
+rootProject.name = "Roteiro_Troca_de_Janela_Fragmentos3"
+include ':app'
